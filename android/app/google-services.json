@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126133670133",
+    "project_id": "my-notes-udum-flutter-project",
+    "storage_bucket": "my-notes-udum-flutter-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126133670133:android:2d24cc99a72a3200ddf5bc",
+        "android_client_info": {
+          "package_name": "ng.firstapp.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4TO6FtJbUBV1_R7yBFvcu0h41oeN_VHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
